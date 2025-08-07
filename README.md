@@ -13,3 +13,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notreallyaryann&show_icons=true&locale=en" alt="notreallyaryann" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notreallyaryann&" alt="notreallyaryann" /></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Notreallyaryann&theme=dark)](https://git.io/streak-stats)
+
